@@ -1,0 +1,12 @@
+3
+year
+height
+department
+6
+1 175.20 mathématique
+3 182.00 informatique
+2 167.45 informatique
+4 176.33 physique
+4 181.13 biologie
+1 164.63 chimie
+
