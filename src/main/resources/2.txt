@@ -1,0 +1,22 @@
+4
+year
+height
+courses
+name
+15
+3 161.50 7 Alexandra
+5 175.00 11 Bob
+2 163.75 9 Charlotte
+4 178.20 13 David
+1 168.90 6 Emma
+3 172.30 8 Frank
+4 166.70 10 Grace
+2 183.40 12 Henry
+5 162.80 5 Irene
+1 170.20 13 Jack
+4 172.60 8 Kate
+3 175.10 9 Liam
+2 165.00 10 Mathieu
+5 180.90 4 Noah
+1 168.30 10 Olivia
+
